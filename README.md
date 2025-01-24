@@ -1,6 +1,6 @@
 # YelpCamp
 
-YelpCamp is a full-stack web application for discovering and exploring campgrounds with interactive map-based location indicators. Styled and templeted using **Tailwind CSS** & **EJS**, it integrates **Mapbox** for precise and dynamic map visualizations.
+YelpCamp is a full-stack web application for discovering and exploring campgrounds with interactive map-based location indicators. Styled and templeted using **Bootstrap** & **EJS**, it integrates **Mapbox** for precise and dynamic map visualizations.
 
 ## Features
 - Browse and explore campgrounds with interactive Mapbox maps.
@@ -10,7 +10,7 @@ YelpCamp is a full-stack web application for discovering and exploring campgroun
 - Scalable backend to handle user interactions and data storage.
 
 ## Technologies Used
-- **Frontend**: Tailwind CSS
+- **Frontend**: CSS, Bootstrap
 - **Templeting**: EJS
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
@@ -56,7 +56,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 - **Mapbox** for providing the powerful map integration that allows users to visualize campground locations with ease.
 - **MongoDB** for offering a scalable, NoSQL database solution to store campground data and user information.
-- **EJS** and **Tailwind CSS** for helping build a fast, responsive, and visually appealing user interface.
+- **EJS** and **Bootstrap** for helping build a fast, responsive, and visually appealing user interface.
 - **Node.js** and **Express.js** for enabling a robust backend framework to handle server-side logic and API requests.
 - **PASSPORT** for providing secure authentication and authorization to protect user data and control access.
 
